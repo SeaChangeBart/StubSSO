@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Session xmlns="urn:schange:userauth:1.0">
+  <Authentication>
+    <ProfileId>198723987</ProfileId>
+    <CpeId>198723987</CpeId>
+  </Authentication>
+  <Expiration>2012-05-12T12:00:00Z</Expiration>
+</Session>
